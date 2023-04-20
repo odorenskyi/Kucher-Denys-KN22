@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1682012359 source:c:\users\win10\documents\bmtp_c\lab9-2\prj\lab9\module\main.cpp
+	<iostream>
+	<Windows.h>
+	<bitset>
+

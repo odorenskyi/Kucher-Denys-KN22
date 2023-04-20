@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1682013357 source:c:\users\win10\documents\bmtp_c\lab9-2\prj\lab9\main.cpp
+	<iostream>
+	<Windows.h>
+	<bitset>
+	"Header.h"
+
+1682013306 c:\users\win10\documents\bmtp_c\lab9-2\prj\lab9\header.h
+
+1682013845 source:c:\users\win10\documents\bmtp_c\lab9-2\prj\lab9\modul.cpp
+	<iostream>
+	<Windows.h>
+	<bitset>
+

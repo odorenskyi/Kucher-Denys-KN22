@@ -18,13 +18,16 @@ while (true) {
     if (num == "s") {
         s_calculation();
     }
-    else if (num == "f") {
+    if (num == "f") {
+        cout << "\n"<<"Введіть суму вашої покупки" << endl;
         func1();
     }
     else if (num == "g") {
+
         func2();
     }
     else if (num == "h") {
+
         func3();
     }
     else if (num == "j" || num == "J") {
