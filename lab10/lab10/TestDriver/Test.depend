@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1682970789 source:c:\users\win10\documents\bmtp_c\lab10\test\main.cpp
+	<iostream>
+	<Windows.h>
+	<fstream>
+	<string>
+	<time.h>
+	<bitset>
+
+1682974757 source:c:\users\win10\documents\bmtp_c\lab10\testdriver\testdrive.cpp
+	<iostream>
+	<Windows.h>
+	<fstream>
+	<string>
+	<time.h>
+	<bitset>
+

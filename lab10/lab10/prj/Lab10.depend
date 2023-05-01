@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1682702612 source:c:\users\win10\documents\bmtp_c\lab10\lab10\main.cpp
+	<iostream>
+	<Windows.h>
+	<fstream>
+	<string>
+	<time.h>
+	<bitset>
+	"Header.h "
+
+1682703755 source:c:\users\win10\documents\bmtp_c\lab10\modules\modules.cpp
+	<iostream>
+	<Windows.h>
+	<fstream>
+	<string>
+	<time.h>
+	<bitset>
+
+1682971956 source:c:\users\win10\documents\bmtp_c\lab10\prj\main.cpp
+	<iostream>
+	<Windows.h>
+	<fstream>
+	<string>
+	<time.h>
+	<bitset>
+	"Header.h "
+
+1682972864 source:c:\users\win10\documents\bmtp_c\lab10\prj\modules\modules.cpp
+	<iostream>
+	<Windows.h>
+	<fstream>
+	<string>
+	<time.h>
+	<bitset>
+
