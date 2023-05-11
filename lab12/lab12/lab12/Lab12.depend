@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1683811845 source:c:\users\win10\documents\bmtp_c\lab12\lab12\main.cpp
+	<iostream>
+	<Windows.h>
+	<fstream>
+	<string>
+
+1683818681 source:c:\users\win10\documents\bmtp_c\git\kucher-denys-kn22\lab12\lab12\lab12\main.cpp
+	<iostream>
+	<Windows.h>
+	<fstream>
+	<string>
+	"Header.h"
+
+1683818682 c:\users\win10\documents\bmtp_c\git\kucher-denys-kn22\lab12\lab12\lab12\header.h
+
