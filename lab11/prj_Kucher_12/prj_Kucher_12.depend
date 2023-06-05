@@ -1,0 +1,79 @@
+# depslib dependency file v1.0
+1685994969 source:d:\pylypenko-viktoriia-kn22\lab11\prj\prj_pylypenko_12\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	<vector>
+	<Windows.h>
+
+1685997951 source:c:\users\win10\documents\bmtp_c\git\kucher-denys-kn22\lab11\prj_kucher_12\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	<vector>
+	<Windows.h>
+	"ModulesPylypenko.h"
+	"ModulesKucher.h"
+	"ModulesSkok.h"
+	"struct_type_project_12.h"
+
+1685996389 c:\users\win10\documents\bmtp_c\git\kucher-denys-kn22\lab11\modulespylypenko.h
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	<vector>
+	<Windows.h>
+	"struct_type_project_12.h"
+
+1685996389 c:\users\win10\documents\bmtp_c\git\kucher-denys-kn22\lab11\struct_type_project_12.h
+	<string>
+	<vector>
+	<iostream>
+	<fstream>
+
+1685996389 c:\users\win10\documents\bmtp_c\git\kucher-denys-kn22\lab11\moduleskucher.h
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	<vector>
+	<Windows.h>
+	"struct_type_project_12.h"
+
+1685995787 c:\users\win10\documents\bmtp_c\git\kucher-denys-kn22\lab11\modulesskok.h
+	<iostream>
+	<fstream>
+	"struct_type_project_12.h"
+
+1685996389 c:\users\win10\documents\bmtp_c\git\kucher-denys-kn22\lab11\prj_kucher_12\modulespylypenko.h
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	<vector>
+	<Windows.h>
+	"struct_type_project_12.h"
+
+1685996389 c:\users\win10\documents\bmtp_c\git\kucher-denys-kn22\lab11\prj_kucher_12\struct_type_project_12.h
+	<string>
+	<vector>
+	<iostream>
+	<fstream>
+
+1685996389 c:\users\win10\documents\bmtp_c\git\kucher-denys-kn22\lab11\prj_kucher_12\moduleskucher.h
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	<vector>
+	<Windows.h>
+	"struct_type_project_12.h"
+
+1685995787 c:\users\win10\documents\bmtp_c\git\kucher-denys-kn22\lab11\prj_kucher_12\modulesskok.h
+	<iostream>
+	<fstream>
+	"struct_type_project_12.h"
+
